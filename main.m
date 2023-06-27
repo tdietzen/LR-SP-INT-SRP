@@ -5,19 +5,8 @@
 % This software is distributed under the terms of the GNU Public License
 % version 3 (http://www.gnu.org/licenses/gpl.txt).
 %
-% If you use the code, please cite:
-%
-% @article{dietzen2023low,
-%   author = {Dietzen, T. and De Sena, E. and van Waterschoot, T.},
-%   title = {Low-Complexity Steered Response Power Mapping based on
-%   Low-Rank and Sparse Interpolation},
-%   journal = {tba},
-%   volume = {tba},
-%   number = {tba},
-%   month = {tba},
-%   year = {2023},
-%   pages = {tba}
-% }
+% If you use the code, please cite the pre-print of the paper:
+% https://arxiv.org/abs/2306.08514
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
